@@ -2,7 +2,7 @@
 # About me
 
 👋 Hi there! My name is Karolina Rozbicka. This is my space where you can find my repositories and projects.
-Curently I'm building my portfolio in software testing field.
+Curently I'm building my software testing portfolio.
 Previously I participated in testing of SAP features, archive management system and ServiceNow platform. 
 My ambition is to focus on software’s quality.
 
