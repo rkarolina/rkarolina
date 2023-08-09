@@ -8,8 +8,7 @@ My ambition is to focus on software’s quality.
 
 # Contact
 
-[<img alt="linkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/karolina-rozbicka)
-
+[<img alt="linkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karolina-r-a3a3a7214/)
 # Education
 
 Warsaw School of Information Technology, WIT <p>
