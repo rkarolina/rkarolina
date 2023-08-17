@@ -1,7 +1,7 @@
 
 # About me
 
-👋 Hi there! My name is Karolina Rozbicka. This is my space where you can find my repositories and projects.
+👋 Hi.. My name is Karolina Rozbicka. This is my space where you can find my repositories and projects.
 Curently I'm building my software testing portfolio.
 Previously I participated in testing of SAP features, archive management system and ServiceNow platform. 
 My ambition is to focus on software’s quality.
@@ -43,8 +43,8 @@ Quality Island Sp. z o.o. - Junior Software Tester (3 months)
 
 # Projects
 
+### [Automated tests of the Scouts Panel application - Selenium Framework](https://github.com/rkarolina/Challenge_portfolio_karolina)
 ### [Automated tests of the Scouts Panel application - Robot Framework](https://github.com/rkarolina/robotframework_scoutpanel)
-### [Automated tests of the Scouts Panel application](https://github.com/rkarolina/Challenge_portfolio_karolina)
 ### [Job offers management system](https://github.com/rkarolina/job-offers-management-system)
 ### [Program geodezyjny (C++)](https://github.com/rkarolina/program_geodezyjny)
 ### [Postman collections](https://github.com/rkarolina/postman/tree/main)
