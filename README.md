@@ -22,12 +22,6 @@ Dare IT Challenge: Automated testing + Python (7 weeks)  <p>
 ✔️ Robot Framework <p>
 ✔️ preparing test cases <p>
 ✔️ reporting bugs <p>
-Quality Island Sp. z o.o. - Junior Software Tester (3 months)
-
-✔️ acceptance/system testing <p>
-✔️ preparing test scenarios/ test cases <p>
-✔️ reporting and handling bugs in JIRA <p>
-✔️working with project documentation <p>
 
 ## Certificates
 
