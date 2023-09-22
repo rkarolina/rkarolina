@@ -12,7 +12,7 @@ My current aspiration is to become a Software Tester.
 
 ## Manual testing
 
-- [Portfolio PL]()
+- [Portfolio PL](https://github.com/rkarolina/rkarolina/blob/main/Portfolio%20-%20manual%20testing.md)
 ## Test automation
 Test scenarios, repositories, reports, bugs:
  - [Scouts Panel application - Python + Selenium Webdriver](https://github.com/rkarolina/Challenge_portfolio_karolina)
@@ -37,7 +37,6 @@ Test scenarios, repositories, reports, bugs:
 ✔️ preparing test cases <p>
 ✔️ reporting errors <p>
 </details>
-<br>
 
 <details>
 <summary> Junior Software Tester (internship - 3 months)</summary>
