@@ -2,11 +2,12 @@
 ## ➡️ Testowanie aplikacji webowej (e-commerce)
 Prace wykonywane na przełomie lipca oraz sierpnia 2023r.
 <details>
-<summary>Scenariusze testowe / przypadki testowe (wykonane w Excelu)</summary>
+<summary>Scenariusze testowe / przypadki testowe (przygotowane w Excelu)</summary>
 
 
 Pod tym [linkiem](https://1drv.ms/x/s!AiWhhxI_zHSDgtpDhjbDasLmeFK3zQ?e=5cdDCf) znajduje się kilka scenariuszów testowych (w języku polskim). 
 Dane wrażliwe zostały zamaskowane, aby nie zdradzać danych o projekcie.
+Łącznie utworzyłam ponad 70 przypadków testowych w ramach tego projektu.
 </details>
 <details>
 <summary>Zgłoszenia błędów (JIRA)</summary>
@@ -75,7 +76,17 @@ Na podstawie utworzonych przypadków testowych zaraportowałam poniższe błędy
 </details>
 
 <details>
-<summary>Odtworzenie błęddów zgłoszonych przez użytkowników systemu oraz zgłoszenie błędów w JIRA </summary>
+<summary>Odtworzenie błędów zgłoszonych przez użytkowników systemu oraz zgłoszenie błędów w JIRA </summary>
 
-W trakcie przygotowywania
+Ćwiczenie polegało na zrozumieniu zgłoszonych przez użytkowników błędów i wykonaniu przypadków testowch na podstawie ich zgłoszeń.
+
+![powiadomienie1.png](img%2Fimg%2010_2023%2Fpowiadomienie1.png)
+
+![powiadomienie2.png](img%2Fimg%2010_2023%2Fpowiadomienie2.png)
+
+![powiadomienie3.png](img%2Fimg%2010_2023%2Fpowiadomienie3.png)
+
+![powiadomienie4.png](img%2Fimg%2010_2023%2Fpowiadomienie4.png)
+
+![powiadomienie5.png](img%2Fimg%2010_2023%2Fpowiadomienie5.png)
 </details>

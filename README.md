@@ -12,7 +12,7 @@ My current aspiration is to become a Software Tester.
 
 ## Manual testing
 
-- [Portfolio PL](https://github.com/rkarolina/rkarolina/blob/main/Portfolio%20-%20manual%20testing.md)
+- [Manual testing of web applications - Portfolio PL](https://github.com/rkarolina/rkarolina/blob/main/Portfolio%20-%20manual%20testing.md)
 ## Test automation
 Test scenarios, repositories, reports, bugs:
  - [Scouts Panel application - Python + Selenium Webdriver](https://github.com/rkarolina/Challenge_portfolio_karolina)
@@ -30,7 +30,7 @@ Test scenarios, repositories, reports, bugs:
 
 <details>
 <summary> Dare IT Challenge: Automated testing + Python (7 weeks) </summary>
-
+<br>
 ✔️ Pycharm <p>
 ✔️ Selenium WebDriver<p>
 ✔️ Robot Framework <p>
@@ -40,7 +40,7 @@ Test scenarios, repositories, reports, bugs:
 
 <details>
 <summary> Junior Software Tester (internship - 3 months)</summary>
-
+<br>
 ✔️ manual testing<p>
 ✔️ creating test cases/scenarios<p>
 ✔️ reporting errors in JIRA<p>
@@ -52,16 +52,6 @@ Test scenarios, repositories, reports, bugs:
 
 Warsaw School of Information Technology, WIT <p>
 _Engineer's degree - Information Technology Management (Applied Computer Science)_
-
-Gained knowledge from different fields of IT and management, e.g:
-- databases/data
-- programming
-- cloud technology
-- requirements engineering
-- design and implementation of applications
-- Robotic Process Automation
-- Agile and SCRUM
-- HRM
 
 ## Certificates
 
