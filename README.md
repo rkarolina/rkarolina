@@ -2,7 +2,6 @@
 # About me
 
 My name is Karolina Rozbicka. This is my space where you can find my repositories and projects.
-My current aspiration is to become a Software Tester.
 
 #  Tech Stack
 
