@@ -13,14 +13,8 @@ My name is Karolina Rozbicka. This is my space where you can find my repositorie
 
 - [Manual testing of web applications](https://github.com/rkarolina/rkarolina/blob/main/Portfolio%20-%20manual%20testing.md)
 ## Test automation
-Test scenarios, repositories, reports, bugs:
- - [Scouts Panel application - Python + Selenium Webdriver](https://github.com/rkarolina/Challenge_portfolio_karolina)
- - [Scouts Panel application - Python + Robot Framework](https://github.com/rkarolina/robotframework_scoutpanel)
- - [Automated test of medical platform - Typescript + Playwright framework](https://github.com/rkarolina/playwright_telemedi)
- <!-- - [Selenium Shop - Python + Selenium Webdriver (PL version - in progress) ](https://github.com/rkarolina/selenium_shop)
 
-## API
- - [Postman collections](https://github.com/rkarolina/postman/tree/main)  --->
+ - [Projects - test automation](https://github.com/rkarolina/Challenge_portfolio_karolina)
 
 ## Database and system design
  - [Job offers management system](https://github.com/rkarolina/job-offers-management-system)
